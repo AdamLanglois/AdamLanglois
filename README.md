@@ -6,9 +6,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at TopGolf in Virginia Beach.
-- 🌱 I’m currently C++, Python, and JavaScript.
-- 👯 I’m looking to collaborate any open source projects that need help.
-- 🤔 I’m looking for help with getting started as a novice programmer that has yet to graduate college.
+- 🔭 I’m currently working at TopGolf in Virginia Beach
+- 🌱 I’m currently C++, Python, and JavaScript
+- 👯 I’m looking to collaborate any open source projects that need help
+- 🤔 I’m looking for help with getting started as a novice programmer that has yet to graduate college
 - ⚡ Fun fact: Cucumbers are melons and strawberries aren't berries
 -->
